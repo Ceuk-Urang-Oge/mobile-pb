@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sign_in_to_continue">Please put your information below.</string>
+    <string name="logout">Logout</string>
+    <string name="name">Name</string>
+    <string name="account_name">Account Name</string>
+    <string name="email">Email</string>
+    <string name="email_address">Email Address</string>
+    <string name="not_registered">Belum punya akun google?</string>
+    <string name="register_here">Daftar disini</string>
+    <string name="judul_artikel">Judul Artikel</string>
+    <string name="penulis">Penulis</string>
+    <string name="isi_artikel">Isi Artikel</string>
+    <string name="password">Password</string>
+</resources>

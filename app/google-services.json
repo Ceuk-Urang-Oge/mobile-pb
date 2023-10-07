@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "744946725346",
+    "project_id": "peakyblinder-77cf6",
+    "storage_bucket": "peakyblinder-77cf6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:744946725346:android:0d7029f16b72876b5749bb",
+        "android_client_info": {
+          "package_name": "com.marqumil.peakyblinder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "744946725346-l1si72lcdhblp8sf101sso637jjahofv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.marqumil.peakyblinder",
+            "certificate_hash": "26c0fd7df5827e7ed61601861eb3a31991a7debb"
+          }
+        },
+        {
+          "client_id": "744946725346-o742c9nr10s0djvcsgrr8ooemm6th3l2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwO9vmyCSlDQRSOXzpzNx9arC3BLrEmtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "744946725346-4p3rtd2j4ve296jj917peogmuin4p3hh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
